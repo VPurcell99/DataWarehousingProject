@@ -3,3 +3,7 @@ grocery_store.db
 Products1.txt
 product_class.csv
 products_first_working.csv
+*.db
+*.csv
+*.xlsx
+*.zip
